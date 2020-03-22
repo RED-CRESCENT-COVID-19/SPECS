@@ -6,6 +6,10 @@ https://drive.google.com/drive/folders/1L82VdnOwc50k38SntdWeBSPGodySqO55?usp=sha
 
 https://github.com/RED-CRESCENT-COVID-19/covidOps
 
+## Urdu Clickable Prototype (Figma)
+
+https://www.figma.com/proto/TtIl1Rei7WY6vMf7upypjA/Material-Design-Theme-Kit-Mine?node-id=22551%3A33034&scaling=scale-down
+
 ## Figma Design Link (Material Design/PandemicRadar)
 
 https://www.figma.com/file/TtIl1Rei7WY6vMf7upypjA/Material-Design-Theme-Kit-Mine?node-id=22471%3A29379
