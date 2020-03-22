@@ -6,6 +6,10 @@ https://drive.google.com/drive/folders/1L82VdnOwc50k38SntdWeBSPGodySqO55?usp=sha
 
 https://github.com/RED-CRESCENT-COVID-19/covidOps
 
+## Figma Design Link (Material Design/PandemicRadar)
+
+https://www.figma.com/file/TtIl1Rei7WY6vMf7upypjA/Material-Design-Theme-Kit-Mine?node-id=22471%3A29379
+
 ## Schema and Data
 ### Schema Folder
 https://drive.google.com/drive/folders/1ljDS6Iui9V_tCu5OYwGR10ES4WtTX-MS?usp=sharing
