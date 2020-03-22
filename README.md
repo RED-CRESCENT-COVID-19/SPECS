@@ -20,4 +20,7 @@ https://drive.google.com/drive/folders/1ljDS6Iui9V_tCu5OYwGR10ES4WtTX-MS?usp=sha
 #### App Info Care Text
 * https://docs.google.com/document/d/1zCZHQZmeS9stJAqHjsP8gUvK789qHG26QY_uEhJ0yDc/edit?usp=sharing
 
+#### Sms
+*https://docs.google.com/document/d/1A7TgWCPFgcw-VtTwYWsGE0y5isgUPM3exuCg4KHO9Hc/edit?usp=sharing
+
 
