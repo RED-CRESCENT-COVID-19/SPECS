@@ -1,4 +1,8 @@
 # SPECS
+## Main Google Drive
+https://drive.google.com/drive/folders/1L82VdnOwc50k38SntdWeBSPGodySqO55?usp=sharing
+
+
 
 ## Schema and Data
 
